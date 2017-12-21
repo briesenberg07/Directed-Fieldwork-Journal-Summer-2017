@@ -18,5 +18,5 @@
 
 #### [July 25-August 18](/july-25-august-18.md)
 
-![](/assets/Window_Files.jpg)
+![](/assets/foldersandwindow.jpg)
 
