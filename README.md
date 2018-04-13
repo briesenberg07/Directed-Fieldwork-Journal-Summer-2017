@@ -2,7 +2,9 @@
 
 ## Ben M. Riesenberg, June-August 2017
 
-## Site supervisor: Ann Lally, Digital Collections Curator
+## Site supervisor: 
+
+## Ann Lally, Digital Collections Curator
 
 ## [University of Washington Libraries Special Collections](http://www.lib.washington.edu/specialcollections)
 
