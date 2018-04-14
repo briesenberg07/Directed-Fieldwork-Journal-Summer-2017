@@ -12,7 +12,6 @@
 
 ## Table of Contents
 
-* [Introduction](README.md)
 * [Learning Outcomes Documentation](LearningOutcomesDocumentation.md)
 * [June 13-30](june-13-30.md)
 * [July 1-6](july-1-6.md)
