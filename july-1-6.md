@@ -36,6 +36,6 @@ While I won’t be participating formally in the policies and procedures working
 
 [^2]: Column headings are _filename_, _full path_, _size \(bytes\)_, _created_, _modified_, _accessed_, and _is deleted_ \(y/n\).
 
-[^3]: See [Learning Outcomes Documentation](/chapter1.md) C1-C3 and [July 25-August 18](/july-25-august-18.md).
+[^3]: See [Learning Outcomes Documentation C1-C3](LearningOutcomesDocumentation.md#c1) and [July 25-August 18](/july-25-august-18.md).
 
 #### _Next: [July 7-24](july-7-24.md)_ 

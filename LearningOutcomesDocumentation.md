@@ -28,7 +28,7 @@ This outcome will be evaluated based on the successful preparation of submission
 
 #### B2:
 
-Work towards this learning outcome will have two components. The first will be the creation of a draft student manual for using the software tools required to complete tasks described in [A1](#a1)-[A3](#a3). The second will be collaborative work as part of a group tasked with the creation of how-to documentation for digital archiving and preservation software, as well as with gathering information about digital preservation software tools and platforms and the feasibility of their use within UW Special Collections.
+Work towards this learning outcome will have two components. The first will be the creation of a draft student manual for using the software tools required to complete tasks described in [A1-A3](#a1). The second will be collaborative work as part of a group tasked with the creation of how-to documentation for digital archiving and preservation software, as well as with gathering information about digital preservation software tools and platforms and the feasibility of their use within UW Special Collections.
 
 Specific tasks may include surveying existing software and tool documentation, adapting documentation to make it applicable to conditions at UW Special Collections, writing and editing new documentation, and presenting findings for feedback and approval.
 
