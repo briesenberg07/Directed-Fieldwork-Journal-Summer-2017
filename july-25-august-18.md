@@ -8,7 +8,7 @@ I continued work on manuals for processing born-digital materials through this p
 
 All manual sections will include version and contributor information, and be licensed under a Creative Commons [Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/) license, to facilitate future expansion and re-use of the documentation.
 
-### _Note: The draft manuals can be viewed [here](https://drive.google.com/file/d/1tq0VwQp1xxNWqVGwSwHt7EKgcwEQPoVn/view?usp=sharing)._
+#### _Note: The draft manuals can be viewed [here](https://drive.google.com/file/d/1tq0VwQp1xxNWqVGwSwHt7EKgcwEQPoVn/view?usp=sharing)._
 
 ## Workflow Testing and Feedback
 
