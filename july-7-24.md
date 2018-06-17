@@ -16,11 +16,10 @@ My current approach is to break the documentation up into sections that each cov
 
 ## Testing and Assessing Software
 
-During this period I began work towards a third [learning outcome](https://drive.google.com/open?id=1-816B2HB_YlwHBzYBaANKLK3Fk3gnDT4yPfNbt2xzHo), testing and assessing software tools for functionality and feasibility of use. In particular, I began testing software for processing and providing access to email archives, using email data files from a previous accession.
+During this period I began work towards a third [learning outcome](LearningOutcomesDocumentation.md#c1), testing and assessing software tools for functionality and feasibility of use. In particular, I began testing software for processing and providing access to email archives, using email data files from a previous accession.
 
 ### [ePADD](https://library.stanford.edu/projects/epadd)
 
 I installed and began importing email files into this program following conversion to a usable format using [Stellar Outlook PST to MBOX Converter](https://www.stellarinfo.com/email-tools/pst-to-mbox-converter.php). The ePADD software package includes distinct modules for the appraisal, ingest, processing, discovery, and delivery of email archives, operating within a web browser. Testing of this software will continue for the remainder of my directed fieldwork.
 
-![](/assets/Computer_Cords.jpg)
-
+#### _Next: [July 25-August 18](july-25-august-18.md)_

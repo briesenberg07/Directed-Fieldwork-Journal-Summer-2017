@@ -52,5 +52,4 @@ Specific work required for this learning outcome may include researching and ins
 
 Evaluation of this outcome will be based on a presentation of findings from the use and testing of email-archive access software. In the case of group work, it will be based on a record of contributions, including software researched, information/documentation gathered, and other contributions to the group.
 
-![](/assets/Notes_Drives_Discs.jpg)
-
+#### _Next: [June 13-30](june-13-30.md)_
