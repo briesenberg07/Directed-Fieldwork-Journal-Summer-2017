@@ -16,7 +16,7 @@ My current approach is to break the documentation up into sections that each cov
 
 ## Testing and Assessing Software
 
-During this period I began work towards a third [learning outcome](LearningOutcomesDocumentation.md#c1), testing and assessing software tools for functionality and feasibility of use. In particular, I began testing software for processing and providing access to email archives, using email data files from a previous accession.
+During this period I began work towards a [third learning outcome](LearningOutcomesDocumentation.md#c1), testing and assessing software tools for functionality and feasibility of use. In particular, I began testing software for processing and providing access to email archives, using email data files from a previous accession.
 
 ### [ePADD](https://library.stanford.edu/projects/epadd)
 
